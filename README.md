@@ -6,3 +6,4 @@ Open Command Prompt (CMD).
 Navigate to the project directory using the `cd` command.
 Run the Python script by typing:Py Filename.py
 For more details, visit the project page:https://github.com/newb-sayonara/Guess-the-number.git
+https://roadmap.sh/projects/number-guessing-game
